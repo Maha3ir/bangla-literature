@@ -1,0 +1,199 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{margin: 0;padding: 0;}
+body{
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+
+}
+h1,h2,h3,h4,h5,h6{
+
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+}
+#topbar {
+    background:#EEF1EF;
+    padding-left:350px;
+    width: 1438px;
+    padding-right: 15px;;
+    margin:auto;
+    overflow: hidden;
+   }
+   .phone {
+    width: 208px;
+    float: left;
+    padding:6px
+    
+}
+.email {
+    width: 597px;
+    float: left;
+    padding:8px;
+    
+}
+.facebook:hover{
+
+color: #47B3FF;
+
+}
+.youtube:hover{
+
+    color: #db1a61;
+}
+
+.linkedin:hover{
+
+color: #595DDE;
+
+
+}
+.instagram:hover{
+   color:#ea1f6a ;
+
+}
+.connection {
+    display:blocked;
+     float:left;
+     padding:9px;
+     width: 143px
+ }
+ .connection a  i{
+
+   font-size: 25px;
+
+ }
+ .facebook{
+
+    color: black;
+    
+    }
+    .youtube{
+    
+        color: black;
+    }
+    .instagram{
+        color: black;
+    }
+    .linkedin{
+    
+    color: black;
+    
+    
+    }
+
+#header{
+background:white;
+padding: 20px;
+position: absolute;
+}
+#header h1 a{
+
+ color: black;
+ font-size: 25px;
+ text-transform: capitalize;
+ font-family:'Merriweather', serif ;
+ text-decoration: none;
+ margin:0;
+ padding: 0;
+ line-height: 1;
+ width: 667px;
+ float: left;
+
+}
+
+#header h1 a:hover{
+    font-size: 27px;
+    font-family:'Merriweather' ,  serif ;
+    transition: 0.5s;
+    text-decoration: underline;
+    
+}
+.nav-menu ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.nav-menu > ul{
+
+display: flex;
+
+}
+.nav-menu > ul > li{
+ 
+    position: relative;
+    white-space: nowrap;
+    padding:4px 7px 7px 36px;
+
+
+
+
+}
+.nav-menu li a{
+
+ color: black;
+ text-decoration: none;
+ font-family:'Playfair Display', serif ;
+ font-size:16px;
+  font-weight: 700;
+
+}
+.nav-menu li a:hover{
+
+    color: #B0B5B6;
+    text-decoration: underline;
+    font-family:'Playfair Display', serif ;
+    font-size:18px;
+     font-weight: 700;
+     transition: 0.2s;
+   
+   }
+.sign-up-btn{
+ 
+    color: black;
+ text-decoration: none;
+ font-family:'Playfair Display', serif ;
+ font-size:16px;
+  font-weight: 700;
+  margin-left: 32px;
+
+}
+.sign-up-btn:hover{
+ 
+    color: #B0B5B6;
+    text-decoration: underline;
+    font-family:'Playfair Display', serif ;
+    font-size:18px;
+     font-weight: 700;
+     transition: 0.2s;
+
+}
+.form{
+ 
+    border: 1px solid black;
+    border-radius: 5px;
+    width:726px;
+    font-family:'Merriweather', serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
